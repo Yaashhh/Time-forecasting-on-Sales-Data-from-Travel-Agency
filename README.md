@@ -2,4 +2,4 @@
 Time Forecasting of Travel Sales data using Facebook Prophet and anomalies package by Business Science
 
 
-The forecasting travel sales document contains all the necessary guidlines for project.
+The forecasting travel sales document contains all the necessary guidelines for project.
